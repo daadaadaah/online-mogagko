@@ -18,4 +18,4 @@
 3. 모든 참가자가 모였으면, 간단히 오늘 무엇을 할지 🤔 이야기하기 
 4. 정각 땡! 치면, 조용히 🤫 자기 할일 하기(음소거 모드 ON!!)
 5. 55분 공부하고💻, 5분 휴식!💪
-6. 스터디 끝나고 [[ISSUE]](https://github.com/daadaadaah/online-mogagko/issues/1)에 회고😎 남기고, Close  
+6. 스터디 끝나고 [[ISSUE]](https://github.com/daadaadaah/online-mogagko/issues/1)에 회고😎 남기고, Close 까지 완료해주세요~ 👊  
