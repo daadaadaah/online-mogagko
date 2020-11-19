@@ -1,5 +1,5 @@
-# online-mogagko
-온라인으로 진행하는 모각코 (migratted to 코드숨 공부방)
+# (deprecated) online-mogagko
+온라인으로 진행하는 모각코 -> 코드숨 공부방으로 합쳐짐!
 
 
 # 진행 방식
